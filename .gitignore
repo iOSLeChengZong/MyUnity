@@ -34,6 +34,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.docx
+*.rtf
 # ============ #
 # OS generated #
 # ============ #
@@ -44,5 +45,9 @@ sysinfo.txt
 .Trashes
 ehthumbs.db
 Thumbs.db
-*.rtf
 
+
+FFFF.rtf
+*.rtf
+*.rtf
+*.rtf
