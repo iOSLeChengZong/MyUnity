@@ -1,0 +1,3 @@
+/Users/lichengzong/Desktop/UA/Unity3D网络游戏实战/Chapter6/Serv/5echo/echo/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/lichengzong/Desktop/UA/Unity3D网络游戏实战/Chapter6/Serv/5echo/echo/bin/Release/echo.exe
+/Users/lichengzong/Desktop/UA/Unity3D网络游戏实战/Chapter6/Serv/5echo/echo/obj/x86/Release/echo.exe

@@ -1,0 +1,5 @@
+/Users/lichengzong/Desktop/UA/Unity3D网络游戏实战/Chapter6/Serv/6asyn/echo/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/lichengzong/Desktop/UA/Unity3D网络游戏实战/Chapter6/Serv/6asyn/echo/bin/Debug/echo.exe.mdb
+/Users/lichengzong/Desktop/UA/Unity3D网络游戏实战/Chapter6/Serv/6asyn/echo/bin/Debug/echo.exe
+/Users/lichengzong/Desktop/UA/Unity3D网络游戏实战/Chapter6/Serv/6asyn/echo/obj/x86/Debug/echo.exe
+/Users/lichengzong/Desktop/UA/Unity3D网络游戏实战/Chapter6/Serv/6asyn/echo/obj/x86/Debug/echo.exe.mdb
