@@ -42,5 +42,6 @@ public class net : MonoBehaviour
         //Close
         socket.Close();
 		int a = 10;
+		int b = 20;
     }
 }
