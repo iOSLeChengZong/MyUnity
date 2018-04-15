@@ -41,5 +41,6 @@ public class net : MonoBehaviour
         recvText.text = str;
         //Close
         socket.Close();
+		int a = 10;
     }
 }
